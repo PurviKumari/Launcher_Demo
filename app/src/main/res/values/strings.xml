@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Launcher Demo</string>
+
+    <string name="widgetcity">Beijing</string>
+    <string name="widgetcountry">China</string>
+    <string name="widgettemp">5°C</string>
+    <string name="widgetdisc">Sunny intervals and light winds</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="select">Select Weather City</string>
+
+</resources>
